@@ -1,0 +1,44 @@
+{
+    "keyboard_name": "-",
+    "manufacturer": "-",
+    "url": "",
+    "maintainer": "-",
+    "processor": "atmega32u4",
+    "bootloader": "caterina",
+    "diode_direction": "ROW2COL",
+    "usb": {
+        "vid": "0xFFFF",
+        "pid": "0xFFFF",
+        "device_version": "0.0.1"
+    },
+    "features":
+    {
+        "bootmagic": true,
+        "console": true,
+        "nkro": true
+    },
+    "matrix_pins": {
+        "cols": ["F6", "F7"],
+        "rows": ["D7", "E6"]
+    },
+    "split": {
+        "soft_serial_pin": "D0"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [0, 1], "x": 0, "y": 0},
+                
+                {"matrix": [1, 0], "x": 0, "y": 1},
+                {"matrix": [1, 1], "x": 1, "y": 1},
+
+                {"matrix": [3, 0], "x": 7, "y": 1},
+                {"matrix": [3, 1], "x": 8, "y": 1},
+
+                {"matrix": [2, 0], "x": 0, "y": 2},
+                {"matrix": [2, 1], "x": 1, "y": 2}
+            ]
+        }
+    }
+}
