@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="10mm"
+   viewBox="0 0 50 10"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="m3-holes-preformat.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="5.1669472"
+     inkscape:cx="114.67119"
+     inkscape:cy="20.03117"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="0.99999998"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1"
+       cx="1.5"
+       cy="1.5"
+       r="1.5"
+       inkscape:label="hole1" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-4"
+       cx="6.4749999"
+       cy="1.475"
+       r="1.475"
+       inkscape:label="hole2" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-7"
+       cx="11.45"
+       cy="1.45"
+       r="1.45"
+       inkscape:label="hole3" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-1"
+       cx="16.424999"
+       cy="1.425"
+       r="1.425"
+       inkscape:label="hole4" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-8"
+       cx="21.4"
+       cy="1.4"
+       r="1.4"
+       inkscape:label="hole5" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-85"
+       cx="26.375"
+       cy="1.375"
+       r="1.375"
+       inkscape:label="hole6" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-4-1"
+       cx="31.35"
+       cy="1.35"
+       r="1.35"
+       inkscape:label="hole7" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-7-3"
+       cx="36.325001"
+       cy="1.325"
+       r="1.325"
+       inkscape:label="hole8" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-1-9"
+       cx="41.299999"
+       cy="1.3"
+       r="1.3"
+       inkscape:label="hole9" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-8-6"
+       cx="46.275002"
+       cy="1.275"
+       r="1.275"
+       inkscape:label="hole10" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-3"
+       cx="1.25"
+       cy="6.25"
+       r="1.25"
+       inkscape:label="hole11" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-4-16"
+       cx="6.2249999"
+       cy="6.2249999"
+       r="1.225"
+       inkscape:label="hole12" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-7-2"
+       cx="11.199999"
+       cy="6.1999998"
+       r="1.2"
+       inkscape:label="hole13" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-1-0"
+       cx="16.174997"
+       cy="6.1750002"
+       r="1.175"
+       inkscape:label="hole14" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-8-1"
+       cx="21.149998"
+       cy="6.1500001"
+       r="1.15"
+       inkscape:label="hole15" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-85-2"
+       cx="26.124998"
+       cy="6.125"
+       r="1.125"
+       inkscape:label="hole16" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-4-1-8"
+       cx="31.099998"
+       cy="6.0999999"
+       r="1.1"
+       inkscape:label="hole17" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-7-3-4"
+       cx="36.075001"
+       cy="6.0749998"
+       r="1.075"
+       inkscape:label="hole18" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-1-9-0"
+       cx="41.049999"
+       cy="6.0500002"
+       r="1.05"
+       inkscape:label="hole19" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-opacity:1;stroke-dasharray:none"
+       id="path1-8-6-6"
+       cx="46.025002"
+       cy="6.0250001"
+       r="1.025"
+       inkscape:label="hole20" />
+  </g>
+</svg>

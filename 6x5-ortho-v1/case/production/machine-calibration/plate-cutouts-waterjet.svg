@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40mm"
+   height="20mm"
+   viewBox="0 0 40 20"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="plate-cutouts-waterjet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="4.1373684"
+     inkscape:cx="46.043761"
+     inkscape:cy="10.51393"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="0.99999998"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect18"
+       style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:label="sc-1"
+       d="M 1,1.000125 V 2.000064 L 1.499906,1.999939 V 14.00024 H 1 v 0.999939 h 0.499906 14.00018 0.499915 V 14.00024 H 15.500086 V 1.999939 h 0.499915 V 1 H 15.500086 1.499906 Z"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+    <path
+       id="rect18-0"
+       style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:label="sc-2"
+       d="m 19.1,1.000125 v 0.8999375 l 0.399906,-1.25e-4 V 14.1 H 19.1 v 0.90018 H 19.499906 33.500086 33.9 V 14.1 H 33.500086 V 1.9 H 33.9 V 1 h -0.399914 -14.00018 z"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+  </g>
+</svg>
