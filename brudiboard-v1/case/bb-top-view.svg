@@ -24,15 +24,15 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.9199975"
-     inkscape:cx="772.65726"
-     inkscape:cy="458.07352"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:zoom="1.3576433"
+     inkscape:cx="482.08541"
+     inkscape:cy="791.07674"
+     inkscape:window-width="1918"
+     inkscape:window-height="920"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g27"
+     inkscape:current-layer="layer3"
      showguides="false">
     <inkscape:grid
        id="grid1"
@@ -1408,7 +1408,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Extras"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <g
        id="g18"
@@ -1474,29 +1474,35 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Sideview"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="display:inline;fill:#b1b1b1;fill-opacity:0.0941176;stroke-width:0.0999996"
        id="rect15"
-       width="116.287"
+       width="118.2"
        height="4"
-       x="45"
-       y="191" />
+       x="45.000004"
+       y="189" />
     <rect
-       style="display:inline;fill:#ffffff;fill-opacity:0.0941176;stroke-width:0.0999995"
+       style="display:inline;fill:#ffffff;fill-opacity:0.0941176;stroke-width:0.0999997"
        id="rect15-8"
        width="10"
-       height="4"
+       height="2"
        x="45"
        y="187" />
     <rect
-       style="display:inline;fill:#ffffff;fill-opacity:0.0941176;stroke-width:0.0999992"
+       style="display:inline;fill:#b1b1b1;fill-opacity:0.0941176;stroke-width:0.0999992"
        id="rect15-8-6"
-       width="20"
+       width="25"
        height="4"
        x="46"
-       y="195" />
+       y="197" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:0.0941176;stroke-width:0.0999991"
+       id="rect15-8-6-8"
+       width="35"
+       height="4"
+       x="46"
+       y="193" />
     <rect
        style="display:inline;fill:#b1b1b1;fill-opacity:0.0941176;stroke-width:0.0999995"
        id="rect15-8-7"
@@ -1506,12 +1512,12 @@
        y="183"
        inkscape:label="rect15-8-7" />
     <rect
-       style="display:inline;fill:#b1b1b1;fill-opacity:0.0941176;stroke-width:0.0999995"
+       style="display:inline;fill:#ffffff;fill-opacity:0.0941176;stroke-width:0.0999995"
        id="rect15-8-7-8"
        width="10"
        height="5"
        x="45"
-       y="173" />
+       y="171" />
     <rect
        style="display:inline;fill:#ffffff;fill-opacity:0.0941176;stroke-width:0.0999995"
        id="rect15-8-7-4"
@@ -1519,6 +1525,13 @@
        height="5"
        x="45"
        y="178" />
+    <rect
+       style="display:inline;fill:#b1b1b1;fill-opacity:0.0941176;stroke-width:0.0999994"
+       id="rect15-8-7-4-0"
+       width="10"
+       height="2"
+       x="45"
+       y="176" />
     <rect
        style="display:inline;fill:none;fill-opacity:0.0941176;stroke:#ff00ff;stroke-width:0.0999988;stroke-dasharray:0.0999988, 0.199999;stroke-dashoffset:0;stroke-opacity:1"
        id="rect15-8-7-4-8"
@@ -1529,81 +1542,76 @@
     <path
        id="rect15-8-7-4-8-3"
        style="display:inline;fill:none;fill-opacity:0.0941176;stroke:#ff00ff;stroke-width:0.0999991;stroke-dasharray:0.0999991, 0.199999;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 45.049963,187.05008 v 7.89978 h 9.532235 0.367936 8.999968 v -3.90002 h -8.999968 v -3.99976 z" />
+       d="m 45.049963,187.05 3.7e-5,5.89986 h 24 V 189.05 l -14.099866,-1.6e-4 V 187.05 Z"
+       sodipodi:nodetypes="ccccccc" />
     <rect
        style="display:inline;fill:#a1a1a1;fill-opacity:1;stroke-width:0.0999993"
        id="rect16"
        width="105.28699"
        height="1.5"
        x="50.5"
-       y="180" />
-    <rect
-       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke-width:0.0999993"
-       id="rect16-4"
-       width="4"
-       height="2"
-       x="50.5"
-       y="178.00246" />
+       y="178.5" />
     <rect
        style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke-width:0.0999991"
        id="rect16-4-7"
        width="5"
        height="1"
-       x="47.552361"
-       y="199.02203" />
+       x="58"
+       y="201" />
     <rect
        style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke-width:0.0999991"
        id="rect16-4-7-5"
        width="5"
        height="1"
-       x="153.6035"
-       y="195.05777" />
+       x="153"
+       y="193" />
     <rect
        style="display:inline;fill:#b1b1b1;fill-opacity:0.0941176;stroke-width:0.0999993"
        id="rect16-4-0"
        width="4"
        height="4"
        x="47.994583"
-       y="195.0058" />
+       y="197" />
     <rect
        style="display:inline;fill:#808080;fill-opacity:1;stroke-width:0.0999993"
        id="rect16-4-4"
        width="7"
        height="3.4000001"
        x="47"
-       y="190" />
+       y="188" />
     <rect
        style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke-width:0.0999992"
        id="rect16-4-1"
        width="4"
        height="1.9"
-       x="67.066742"
-       y="186.60001" />
+       x="66.920578"
+       y="185.13837" />
     <rect
-       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke-width:0.0999995"
+       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke-width:0.0999996"
        id="rect16-4-5"
        width="4"
-       height="2"
+       height="3"
        x="50.5"
-       y="181" />
+       y="180.02557" />
     <rect
        style="display:inline;fill:#008023;fill-opacity:1;stroke-width:0.0999999"
        id="rect17"
        width="95.245941"
        height="1.6"
        x="55.5"
-       y="185" />
+       y="183.5" />
     <rect
        style="display:inline;fill:#008023;fill-opacity:1;stroke-width:0.0999998"
        id="rect17-4"
        width="15"
        height="1.6"
        x="48"
-       y="193.39999" />
+       y="191.39999" />
     <g
        id="g17"
        inkscape:label="switch-sideview"
-       style="display:inline">
+       style="display:inline"
+       transform="translate(0,-1.5)">
       <g
          id="g308"
          transform="matrix(0.05876519,0,0,0.05869566,59.856904,161.65776)"
@@ -1738,7 +1746,7 @@
            id="line9"
            style="stroke-width:4.50505" />
         <polygon
-           points="68.264,407.907 65.829,407.907 67.046,399.386 "
+           points="67.046,399.386 68.264,407.907 65.829,407.907 "
            id="polygon9"
            style="stroke-width:4.50505" />
         <polygon
@@ -1747,11 +1755,11 @@
            stroke-linecap="round"
            stroke-linejoin="round"
            stroke-miterlimit="2"
-           points="68.264,407.907 65.829,407.907 67.046,399.386 "
+           points="67.046,399.386 68.264,407.907 65.829,407.907 "
            id="polygon10"
            style="stroke-width:4.50505" />
         <polygon
-           points="65.829,445.912 68.264,445.912 67.046,454.434 "
+           points="67.046,454.434 65.829,445.912 68.264,445.912 "
            id="polygon11"
            style="stroke-width:4.50505" />
         <polygon
@@ -1760,7 +1768,7 @@
            stroke-linecap="round"
            stroke-linejoin="round"
            stroke-miterlimit="2"
-           points="65.829,445.912 68.264,445.912 67.046,454.434 "
+           points="67.046,454.434 65.829,445.912 68.264,445.912 "
            id="polygon12"
            style="stroke-width:4.50505" />
         <polyline
@@ -1836,7 +1844,7 @@
            id="polyline19"
            style="stroke-width:4.50505" />
         <polygon
-           points="68.264,322.693 65.829,322.693 67.046,314.172 "
+           points="67.046,314.172 68.264,322.693 65.829,322.693 "
            id="polygon19"
            style="stroke-width:4.50505" />
         <polygon
@@ -1845,11 +1853,11 @@
            stroke-linecap="round"
            stroke-linejoin="round"
            stroke-miterlimit="2"
-           points="68.264,322.693 65.829,322.693 67.046,314.172 "
+           points="67.046,314.172 68.264,322.693 65.829,322.693 "
            id="polygon20"
            style="stroke-width:4.50505" />
         <polygon
-           points="65.829,390.864 68.264,390.864 67.046,399.386 "
+           points="67.046,399.386 65.829,390.864 68.264,390.864 "
            id="polygon21"
            style="stroke-width:4.50505" />
         <polygon
@@ -1858,7 +1866,7 @@
            stroke-linecap="round"
            stroke-linejoin="round"
            stroke-miterlimit="2"
-           points="65.829,390.864 68.264,390.864 67.046,399.386 "
+           points="67.046,399.386 65.829,390.864 68.264,390.864 "
            id="polygon22"
            style="stroke-width:4.50505" />
         <polyline
@@ -1958,7 +1966,7 @@
            id="polyline29"
            style="stroke-width:4.50505" />
         <polygon
-           points="383.336,210.722 380.902,210.722 382.119,202.2 "
+           points="382.119,202.2 383.336,210.722 380.902,210.722 "
            id="polygon29"
            style="stroke-width:4.50505" />
         <polygon
@@ -1967,11 +1975,11 @@
            stroke-linecap="round"
            stroke-linejoin="round"
            stroke-miterlimit="2"
-           points="383.336,210.722 380.902,210.722 382.119,202.2 "
+           points="382.119,202.2 383.336,210.722 380.902,210.722 "
            id="polygon30"
            style="stroke-width:4.50505" />
         <polygon
-           points="380.902,390.864 383.336,390.864 382.119,399.386 "
+           points="382.119,399.386 380.902,390.864 383.336,390.864 "
            id="polygon31"
            style="stroke-width:4.50505" />
         <polygon
@@ -1980,7 +1988,7 @@
            stroke-linecap="round"
            stroke-linejoin="round"
            stroke-miterlimit="2"
-           points="380.902,390.864 383.336,390.864 382.119,399.386 "
+           points="382.119,399.386 380.902,390.864 383.336,390.864 "
            id="polygon32"
            style="stroke-width:4.50505" />
         <polyline
@@ -2080,7 +2088,7 @@
            id="polyline39"
            style="stroke-width:4.50505" />
         <polygon
-           points="65.829,193.679 68.264,193.679 67.046,202.2 "
+           points="67.046,202.2 65.829,193.679 68.264,193.679 "
            id="polygon39"
            style="stroke-width:4.50505" />
         <polygon
@@ -2089,11 +2097,11 @@
            stroke-linecap="round"
            stroke-linejoin="round"
            stroke-miterlimit="2"
-           points="65.829,193.679 68.264,193.679 67.046,202.2 "
+           points="67.046,202.2 65.829,193.679 68.264,193.679 "
            id="polygon40"
            style="stroke-width:4.50505" />
         <polygon
-           points="68.264,149.368 65.829,149.368 67.046,140.846 "
+           points="67.046,140.846 68.264,149.368 65.829,149.368 "
            id="polygon41"
            style="stroke-width:4.50505" />
         <polygon
@@ -2102,7 +2110,7 @@
            stroke-linecap="round"
            stroke-linejoin="round"
            stroke-miterlimit="2"
-           points="68.264,149.368 65.829,149.368 67.046,140.846 "
+           points="67.046,140.846 68.264,149.368 65.829,149.368 "
            id="polygon42"
            style="stroke-width:4.50505" />
         <line
@@ -5274,8 +5282,98 @@
     </g>
     <path
        style="fill:#b1b1b1;fill-opacity:0.0941176;stroke:#ff00ff;stroke-width:0.1;stroke-dasharray:0.0999995, 0.199999;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 63.145413,174 1.855,-12 h 13 l 6.305,12 z"
+       d="m 63.145413,172.5 1.855,-12 h 13 l 6.305,12 z"
        id="path17"
        sodipodi:nodetypes="ccccc" />
+    <rect
+       style="display:inline;fill:#b1b1b1;fill-opacity:0.0941176;stroke-width:0.0999996"
+       id="rect22"
+       width="142"
+       height="4"
+       x="45"
+       y="209" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:0.0941176;stroke-width:0.0999997"
+       id="rect24"
+       width="10"
+       height="2"
+       x="45"
+       y="207" />
+    <rect
+       style="display:inline;fill:#b1b1b1;fill-opacity:0.0941176;stroke-width:0.0999992"
+       id="rect25"
+       width="25"
+       height="5"
+       x="46"
+       y="218" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:0.0941176;stroke-width:0.0999991"
+       id="rect26"
+       width="35"
+       height="5"
+       x="46"
+       y="213" />
+    <path
+       id="path26"
+       style="display:inline;fill:none;fill-opacity:0.0941176;stroke:#ff00ff;stroke-width:0.0999991;stroke-dasharray:0.0999991, 0.199999;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 45.049963,207.05 3.7e-5,5.89986 h 24 V 209.05 l -14.099866,-1.6e-4 V 207.05 Z"
+       sodipodi:nodetypes="ccccccc" />
+    <rect
+       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke-width:0.0999991"
+       id="rect27"
+       width="5"
+       height="1"
+       x="58"
+       y="223" />
+    <rect
+       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke-width:0.0999991"
+       id="rect28"
+       width="5"
+       height="1"
+       x="177"
+       y="213" />
+    <rect
+       style="display:inline;fill:#b1b1b1;fill-opacity:0.0941176;stroke-width:0.0999993"
+       id="rect29"
+       width="4"
+       height="5"
+       x="47.994583"
+       y="218" />
+    <rect
+       style="display:inline;fill:#808080;fill-opacity:1;stroke-width:0.0999993"
+       id="rect30"
+       width="7"
+       height="3.4000001"
+       x="47"
+       y="208" />
+    <rect
+       style="display:inline;fill:#008023;fill-opacity:1;stroke-width:0.0999998"
+       id="rect31"
+       width="15"
+       height="1.6"
+       x="48"
+       y="211.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Arial;-inkscape-font-specification:Arial;fill:#b1b1b1;fill-opacity:0.0941176;stroke-width:0.1"
+       x="33.714981"
+       y="182.70401"
+       id="text31"><tspan
+         sodipodi:role="line"
+         id="tspan31"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="33.714981"
+         y="182.70401">FRL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Arial;-inkscape-font-specification:Arial;display:inline;fill:#b1b1b1;fill-opacity:0.0941176;stroke-width:0.1"
+       x="33.531906"
+       y="211.54448"
+       id="text31-7"><tspan
+         sodipodi:role="line"
+         id="tspan31-6"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="33.531906"
+         y="211.54448">TKL</tspan></text>
   </g>
 </svg>
