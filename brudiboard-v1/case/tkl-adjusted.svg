@@ -7,7 +7,7 @@
    viewBox="0 0 375 320"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="tkl-adjusted.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,12 +24,12 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.9199975"
-     inkscape:cx="1207.0328"
-     inkscape:cy="421.61514"
+     inkscape:zoom="2.7152865"
+     inkscape:cx="1203.1879"
+     inkscape:cy="140.86911"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2">
@@ -56,7 +56,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Case-TKL"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0.20000047,-0.2)">
     <rect
        style="fill:none;fill-opacity:0.248963;stroke:#00ffff;stroke-width:0.0999998;stroke-opacity:1"
        id="rect1-5"
@@ -118,14 +119,14 @@
        ry="1"
        inkscape:label="gasket-3" />
     <rect
-       style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#00ffff;stroke-width:0.1;stroke-opacity:1"
+       style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#00ffff;stroke-width:0.10061;stroke-opacity:1"
        id="rect2-3"
-       width="40.5"
-       height="6.8185372"
-       x="317.29999"
-       y="10.3"
-       rx="1"
-       ry="0.99999994"
+       width="40.99939"
+       height="6.8179269"
+       x="317.30029"
+       y="10.300305"
+       rx="1.0123307"
+       ry="0.99991047"
        inkscape:label="gasket-4" />
     <rect
        style="fill:none;fill-opacity:0.0108108;stroke:#00ffff;stroke-width:0.1;stroke-opacity:1"
@@ -148,78 +149,71 @@
        ry="1"
        inkscape:label="gasket-6" />
     <rect
-       style="fill:none;fill-opacity:0.0108108;stroke:#00ffff;stroke-width:0.1;stroke-opacity:1"
+       style="fill:none;fill-opacity:0.0108108;stroke:#00ffff;stroke-width:0.10061;stroke-opacity:1"
        id="rect2-7"
-       width="40.5"
-       height="7.0725303"
-       x="317.29999"
-       y="134.76648"
-       rx="1"
-       ry="1"
+       width="40.99939"
+       height="7.0719199"
+       x="317.30029"
+       y="134.76678"
+       rx="1.0123307"
+       ry="0.99991369"
        inkscape:label="gasket-7" />
-    <ellipse
+    <circle
        style="fill:none;fill-opacity:0.0108108;stroke:#00ffff;stroke-width:0.0999995;stroke-opacity:1"
        id="path2"
        cx="14.999999"
        cy="10.500001"
-       rx="1.35"
-       ry="1.3500003"
-       inkscape:label="screw-1" />
-    <ellipse
+       inkscape:label="screw-1"
+       r="1.5" />
+    <circle
        style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#00ffff;stroke-width:0.0999995;stroke-opacity:1"
        id="path2-4"
        cx="113.5"
        cy="10.500001"
        inkscape:label="screw-2"
-       rx="1.35"
-       ry="1.3500003" />
-    <ellipse
+       r="1.5" />
+    <circle
        style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#00ffff;stroke-width:0.0999995;stroke-opacity:1"
        id="path2-0-1"
        cx="265.20001"
        cy="10.500001"
-       rx="1.35"
-       ry="1.3500003"
-       inkscape:label="screw-3" />
-    <ellipse
+       inkscape:label="screw-3"
+       r="1.5" />
+    <circle
        style="fill:none;fill-opacity:0.0108108;stroke:#00ffff;stroke-width:0.0999995;stroke-opacity:1"
        id="path2-0"
        cx="364.29999"
        cy="10.500001"
-       rx="1.35"
-       ry="1.3500003"
-       inkscape:label="screw-4" />
-    <ellipse
+       inkscape:label="screw-4"
+       r="1.5" />
+    <circle
        style="fill:none;fill-opacity:0.0108108;stroke:#00ffff;stroke-width:0.0999995;stroke-opacity:1"
        id="path2-9"
        cx="14.999999"
        cy="141.5"
-       rx="1.35"
-       ry="1.3500003"
-       inkscape:label="screw-5" />
-    <ellipse
+       inkscape:label="screw-5"
+       r="1.5" />
+    <circle
        style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#00ffff;stroke-width:0.0999995;stroke-opacity:1"
        id="path2-4-0"
        cx="113.5"
        cy="141.5"
        inkscape:label="screw-6"
-       rx="1.35"
-       ry="1.3500003" />
-    <ellipse
+       r="1.5" />
+    <circle
        style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#00ffff;stroke-width:0.0999995;stroke-opacity:1"
        id="path2-0-1-1"
        cx="225.2"
        cy="141.5"
-       rx="1.35"
-       ry="1.3500003"
-       inkscape:label="screw-7" />
+       inkscape:label="screw-7"
+       r="1.5" />
     <circle
        style="fill:none;fill-opacity:0.0108108;stroke:#00ffff;stroke-width:0.0999995;stroke-opacity:1"
        id="path2-0-4"
        cx="364.30002"
        cy="141.5"
        inkscape:label="screw-8"
-       r="1.3500003" />
+       r="1.5" />
     <ellipse
        style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#00ffff;stroke-width:0.0999997;stroke-opacity:1"
        id="ellipse8"
@@ -364,5 +358,57 @@
        x="253.97501"
        y="116.862"
        inkscape:label="top-blocker-2" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#ffff00;stroke-width:0.1;stroke-opacity:1"
+       id="rect12-3-4"
+       width="17.9"
+       height="27.902681"
+       x="179.05"
+       y="1.25"
+       rx="3"
+       ry="3"
+       inkscape:label="db1-cutout" />
+    <ellipse
+       style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#ffff00;stroke-width:0.0999999;stroke-opacity:1"
+       id="ellipse18-2-5"
+       cx="182"
+       cy="15.189678"
+       rx="1.4499999"
+       ry="1.45"
+       inkscape:label="db1-insert-1" />
+    <ellipse
+       style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#ffff00;stroke-width:0.0999999;stroke-opacity:1"
+       id="ellipse18-2-8-5"
+       cx="194"
+       cy="15.189678"
+       rx="1.4499999"
+       ry="1.45"
+       inkscape:label="db1-insert-2" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#ff9200;stroke-width:0.1;stroke-opacity:1"
+       id="rect12-3-6"
+       width="21.276196"
+       height="23.563002"
+       x="177.327"
+       y="1.25"
+       rx="2"
+       ry="2.0000002"
+       inkscape:label="db2-cutout" />
+    <ellipse
+       style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#ff9200;stroke-width:0.0999999;stroke-opacity:1"
+       id="ellipse18-2-1"
+       cx="180.09955"
+       cy="9.6696758"
+       rx="1.4499999"
+       ry="1.45"
+       inkscape:label="db2-insert-1" />
+    <ellipse
+       style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#ff9200;stroke-width:0.0999999;stroke-opacity:1"
+       id="ellipse18-2-8-4"
+       cx="195.61354"
+       cy="9.6696758"
+       rx="1.4499999"
+       ry="1.45"
+       inkscape:label="db2-insert-2" />
   </g>
 </svg>

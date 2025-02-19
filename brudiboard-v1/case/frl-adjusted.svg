@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="5.4305728"
-     inkscape:cx="703.24073"
-     inkscape:cy="166.74116"
+     inkscape:zoom="0.95999871"
+     inkscape:cx="709.37595"
+     inkscape:cy="277.60454"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -432,15 +432,15 @@
        ry="1"
        inkscape:label="gasket-3" />
     <rect
-       style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#ffff00;stroke-width:0.1;stroke-opacity:1"
+       style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#ffff00;stroke-width:0.10061;stroke-opacity:1"
        id="rect14"
-       width="40.5"
-       height="6.039"
-       x="317.29999"
-       y="34.112999"
+       width="40.99939"
+       height="6.0383906"
+       x="317.30029"
+       y="34.113304"
+       inkscape:label="gasket-4"
        rx="1"
-       ry="1"
-       inkscape:label="gasket-4" />
+       ry="1" />
     <rect
        style="fill:none;fill-opacity:0.0108108;stroke:#ffff00;stroke-width:0.1;stroke-opacity:1"
        id="rect9"
@@ -462,14 +462,14 @@
        ry="1"
        inkscape:label="gasket-6" />
     <rect
-       style="fill:none;fill-opacity:0.0108108;stroke:#ffff00;stroke-width:0.1;stroke-opacity:1"
+       style="fill:none;fill-opacity:0.0108108;stroke:#ffff00;stroke-width:0.10061;stroke-opacity:1"
        id="rect11"
-       width="40.5"
-       height="6.039"
-       x="317.29999"
-       y="135.8"
-       rx="1"
-       ry="1"
+       width="40.99939"
+       height="6.0383906"
+       x="317.30029"
+       y="135.80031"
+       rx="1.0123307"
+       ry="0.99989909"
        inkscape:label="gasket-7" />
     <circle
        style="fill:none;fill-opacity:0.0108108;stroke:#ffff00;stroke-width:0.0999995;stroke-opacity:1"
@@ -622,7 +622,7 @@
        y="25.060322"
        rx="3"
        ry="3"
-       inkscape:label="db-cutout"
+       inkscape:label="db1-cutout"
        sodipodi:insensitive="true" />
     <ellipse
        style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#ffab00;stroke-width:0.0999999;stroke-opacity:1"
@@ -631,7 +631,7 @@
        cy="39"
        rx="1.4499999"
        ry="1.45"
-       inkscape:label="insert-db-1"
+       inkscape:label="db1-insert-1"
        sodipodi:insensitive="true" />
     <ellipse
        style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#ffab00;stroke-width:0.0999999;stroke-opacity:1"
@@ -640,7 +640,35 @@
        cy="39"
        rx="1.4499999"
        ry="1.45"
-       inkscape:label="insert-db-2"
+       inkscape:label="db1-insert-2"
+       sodipodi:insensitive="true" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#ffff00;stroke-width:0.1;stroke-opacity:1"
+       id="rect12-3-8"
+       width="21.276196"
+       height="23.563002"
+       x="177.35001"
+       y="25.049999"
+       rx="2"
+       ry="2.0000002"
+       inkscape:label="db2-cutout" />
+    <ellipse
+       style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#ffab00;stroke-width:0.0999999;stroke-opacity:1"
+       id="ellipse18-2-82"
+       cx="180.12256"
+       cy="33.469673"
+       rx="1.4499999"
+       ry="1.45"
+       inkscape:label="db2-insert-1"
+       sodipodi:insensitive="true" />
+    <ellipse
+       style="display:inline;fill:none;fill-opacity:0.0108108;stroke:#ffab00;stroke-width:0.0999999;stroke-opacity:1"
+       id="ellipse18-2-8-4"
+       cx="195.63655"
+       cy="33.469673"
+       rx="1.4499999"
+       ry="1.45"
+       inkscape:label="db2-insert-2"
        sodipodi:insensitive="true" />
     <rect
        style="display:inline;fill:#7f7f7f;fill-opacity:0.248963;stroke:#ff00ff;stroke-width:0.1;stroke-opacity:1"
