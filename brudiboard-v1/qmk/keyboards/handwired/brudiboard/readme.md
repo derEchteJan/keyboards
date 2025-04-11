@@ -8,3 +8,5 @@ build command examples:
 
 make handwired/brudiboard:default
 make handwired/brudiboard:via
+
+the layout JSONs for via are located under brudiboard-v1/layout/via

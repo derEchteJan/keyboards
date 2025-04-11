@@ -36,7 +36,12 @@ Amount for TKL (FRL in brackets)
 - plate 1.5mm, material of choice
 - wire for usb 28-30 AWG
 - hex screw M3 20mm 4x, M3 15mm 4x, M2 10mm 2x
-- ...
+- 4mm M3 inserts 8x, 4mm M2 inserts 2x
+- 8cm gasket strips 2mm 7x
  
 ### TODO
- - check stab orientations on plates
+ - small stab holes can be enlarged
+ - firmware:
+   - minus has the kp_minus bound
+   - up and down arrow are interchanged in via
+   - spacebar is bound to MO(1)
