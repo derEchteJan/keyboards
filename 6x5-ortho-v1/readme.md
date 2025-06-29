@@ -1,3 +1,7 @@
+# 6x5 ortholinear split
+
+![bort.jpeg]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/derEchteJan/keyboards/blob/main/6x5-ortho-v1/bort.jpeg) "")
+
 # Notes
 
 ### Plate layout:
